@@ -8,3 +8,7 @@
 TheArtnos/TheArtnos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Hit in your console or terminal to connect with me.
+```bash
+npx theartnos
+```
